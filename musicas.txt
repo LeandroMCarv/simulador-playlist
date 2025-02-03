@@ -1,0 +1,90 @@
+Queen ;Bohemian Rhapsody ;A Night at the Opera ;Rock ;5:55
+The Beatles ;Hey Jude ;The Beatles Again ;Rock ;7:05
+Michael Jackson ;Billie Jean ;Thriller ;Pop ;4:54
+Madonna ;Like a Prayer ;Like a Prayer ;Pop ;5:41
+Nirvana ;Smells Like Teen Spirit ;Nevermind ;Grunge ;5:01
+Adele ;Rolling in the Deep ;21 ;Soul/Pop ;3:48
+The Rolling Stones ;Paint It Black ;Aftermath ;Rock ;3:45
+Led Zeppelin ;Stairway to Heaven ;Led Zeppelin IV ;Rock ;8:02
+Beyoncé ;Single Ladies (Put a Ring on It) ;I Am... Sasha Fierce ;Pop/R&B ;3:13
+Bob Dylan ;Like a Rolling Stone ;Highway 61 Revisited ;Rock/Folk ;6:09
+Taylor Swift ;Shake It Off ;1989 ;Pop ;3:39
+U2 ;With or Without You ;The Joshua Tree ;Rock ;4:55
+Prince ;Purple Rain ;Purple Rain ;Rock/R&B ;8:41
+David Bowie ;Space Oddity ;David Bowie ;Rock ;5:15
+Rihanna ;Umbrella ;Good Girl Gone Bad ;Pop/R&B ;4:35
+Elton John ;Rocket Man ;Honky Château ;Rock ;4:42
+Aretha Franklin ;Respect ;I Never Loved a Man the Way I Love You ;Soul ;2:27
+Pink Floyd ;Comfortably Numb ;The Wall ;Rock ;6:23
+The Police ;Every Breath You Take ;Synchronicity ;Rock ;4:13
+Bruno Mars ;Uptown Funk ;Uptown Special ;Funk/Pop ;4:30
+Fleetwood Mac ;Dreams ;Rumours ;Rock ;4:17
+Kanye West ;Gold Digger ;Late Registration ;Hip-Hop ;3:28
+Amy Winehouse ;Rehab ;Back to Black ;Soul/Jazz ;3:34
+Coldplay ;Viva La Vida ;Viva La Vida or Death and All His Friends ;Rock/Pop ;4:02
+The Weeknd ;Blinding Lights ;After Hours ;Pop/Synthwave ;3:20
+Guns N' Roses ;Sweet Child O' Mine ;Appetite for Destruction ;Rock ;5:56
+Justin Timberlake ;Can't Stop the Feeling! ;Trolls (Original Motion Picture Soundtrack) ;Pop ;3:56
+Maroon 5 ;Moves Like Jagger ;Hands All Over ;Pop/Rock ;3:21
+Bon Jovi ;Livin' on a Prayer ;Slippery When Wet ;Rock ;4:09
+Whitney Houston ;I Will Always Love You ;The Bodyguard (Original Soundtrack) ;Pop/Ballad ;4:31
+Oasis ;Wonderwall ;(What's the Story) Morning Glory? ;Rock ;4:18
+Billie Eilish ;Bad Guy ;When We All Fall Asleep, Where Do We Go? ;Pop ;3:14
+Ed Sheeran ;Shape of You ;÷ (Divide) ;Pop ;3:53
+Led Zeppelin ;Whole Lotta Love ;Led Zeppelin II ;Rock ;5:34
+Black Eyed Peas ;I Gotta Feeling ;The E.N.D. ;Pop/Dance ;4:49
+The Doors ;Light My Fire ;The Doors ;Rock ;7:05
+Madonna ;Vogue ;I'm Breathless ;Pop ;5:16
+Lady Gaga ;Bad Romance ;The Fame Monster ;Pop ;4:54
+Bruce Springsteen ;Born to Run ;Born to Run ;Rock ;4:30
+Katy Perry ;Firework ;Teenage Dream ;Pop ;3:48
+Simon & Garfunkel ;Bridge Over Troubled Water ;Bridge Over Troubled Water ;Folk/Rock ;4:55
+James Brown ;I Got You (I Feel Good) ;Live at the Apollo ;Soul ;2:47
+Santana ;Smooth ;Supernatural ;Rock/Latin ;4:59
+The Cure ;Just Like Heaven ;Kiss Me, Kiss Me, Kiss Me ;Rock ;3:34
+Sia ;Chandelier ;1000 Forms of Fear ;Pop ;3:36
+John Legend ;All of Me ;Love in the Future ;Soul/Pop ;4:29
+ABBA ;Dancing Queen ;Arrival ;Pop ;3:51
+Aerosmith ;I Don't Want to Miss a Thing ;Armageddon (Original Soundtrack) ;Rock ;4:58
+Christina Aguilera ;Beautiful ;Stripped ;Pop ;3:58
+Van Halen ;Jump ;1984 ;Rock ;4:02
+Dire Straits ;Sultans of Swing ;Dire Straits ;Rock ;5:47
+Shakira ;Hips Don't Lie ;Oral Fixation Vol. 2 ;Latin/Pop ;3:38
+Cher ;Believe ;Believe ;Pop ;4:00
+The Killers ;Mr. Brightside ;Hot Fuss ;Rock ;3:42
+Dua Lipa ;Don't Start Now ;Future Nostalgia ;Pop ;3:03
+Eric Clapton ;Tears in Heaven ;Unplugged ;Rock/Pop ;4:33
+Red Hot Chili Peppers ;Californication ;Californication ;Rock ;5:21
+Sade ;Smooth Operator ;Diamond Life ;Soul/Jazz ;4:16
+Post Malone ;Circles ;Hollywood's Bleeding ;Hip-Hop/Pop ;3:35
+George Michael ;Faith ;Faith ;Pop ;3:16
+The Chainsmokers ;Closer ;Collage ;Pop/Electronic ;4:05
+Cyndi Lauper ;Girls Just Want to Have Fun ;She's So Unusual ;Pop ;3:58
+Moby ;Porcelain ;Play ;Electronic ;4:01
+Toto ;Africa ;Toto IV ;Rock ;4:55
+Lana Del Rey ;Summertime Sadness ;Born to Die ;Pop ;4:22
+Lil Nas X ;Old Town Road ;7 EP ;Country/Hip-Hop ;2:37
+Usher ;Yeah! ;Confessions ;R&B ;4:10
+Coldplay ;Clocks ;A Rush of Blood to the Head ;Rock ;5:07
+Amy Winehouse ;You Know I'm No Good ;Back to Black ;Soul/Jazz ;4:17
+Tom Petty ;Free Fallin' ;Full Moon Fever ;Rock ;4:14
+Elvis Presley ;Can't Help Falling in Love ;Blue Hawaii ;Pop/Rock ;3:01
+Journey ;Don't Stop Believin' ;Escape ;Rock ;4:11
+Adele ;Someone Like You ;21 ;Soul/Pop ;4:45
+Marvin Gaye ;What's Going On ;What's Going On ;Soul ;3:52
+Katy Perry ;Roar ;Prism ;Pop ;3:43
+Bill Withers ;Lean on Me ;Lean on Me ;Soul ;4:17
+The Weeknd ;Can't Feel My Face ;Beauty Behind the Madness ;Pop ;3:35
+Green Day ;Boulevard of Broken Dreams ;American Idiot ;Punk Rock ;4:21
+Rihanna ;We Found Love ;Talk That Talk ;Dance/Pop ;3:35
+Dua Lipa ;Levitating ;Future Nostalgia ;Pop ;3:23
+Shawn Mendes ;Stitches ;Handwritten ;Pop ;3:28
+Mumford & Sons ;I Will Wait ;Babel ;Folk/Rock ;4:36
+Lizzo ;Truth Hurts ;Cuz I Love You ;Pop/R&B ;2:53
+Sam Smith ;Stay With Me ;In the Lonely Hour ;Soul/Pop ;2:52
+The Weeknd ;Starboy ;Starboy ;Pop ;3:50
+Imagine Dragons ;Radioactive ;Night Visions ;Rock ;3:06
+Sia ;Elastic Heart ;1000 Forms of Fear ;Pop ;3:34
+Wesley ;5 da manha ;forrozao ;forro ;2:30
+Avenged Sevenfold ;Hail of the King ;Hail of the King ;Heavy Metal ;4:36
+Jorge Vercillo ;Monalisa ;Trem Da Minha Vida ;MPB ;4:45
